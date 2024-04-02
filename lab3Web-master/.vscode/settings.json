@@ -1,0 +1,7 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 14,
+  "workbench.colorTheme": "Noctis Minimus",
+  "php.format.codeStyle": "PSR-12",
+  "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+}

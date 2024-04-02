@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: tahoma, sans-serif;
+  background-color: rgb(214, 167, 106);
+}
+.container {
+  border: 1px solid rgb(235, 235, 235);
+  background-color: rgb(20, 46, 66);
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+  color: rgb(255, 252, 252);
+  text-align: center;
+}
+
+.main {
+  margin-top: 19px;
+  justify-content: center;
+  text-align: center;
+  justify-content: center;
+  color: rgb(44, 36, 59);
+}
